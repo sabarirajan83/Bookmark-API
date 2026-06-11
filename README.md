@@ -124,7 +124,7 @@ http://localhost:8080/h2-console
 jdbc:h2:mem:bookmarkdb
 ```
 
-**Username:** `sa`
+**Username:** `sa`  
 **Password:** `password123`
 
 ---
