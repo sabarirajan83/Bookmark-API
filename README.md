@@ -158,7 +158,6 @@ src/main/resources/static/index.html
 
 ## 👨‍💻 Author
 
-Your Name
 GitHub: https://github.com/sabarirajan83
 
 ---
